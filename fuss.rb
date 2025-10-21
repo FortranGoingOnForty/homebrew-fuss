@@ -1,8 +1,8 @@
 class Fuss < Formula
   desc "Tree utility for dirty git files, written in modern Fortran"
   homepage "https://github.com/FortranGoingOnForty/fuss"
-  url "https://github.com/FortranGoingOnForty/fuss/archive/refs/tags/v0.6.2.tar.gz"
-  sha256 "3f3233802b4c64011822aca0ba1690f5ad1918ff0eb61479b7c4d9060aaf2a03"
+  url "https://github.com/FortranGoingOnForty/fuss/archive/refs/tags/v0.6.4.tar.gz"
+  sha256 "2693f007cdf3e7f4e06ea930ffb8b86dceafc5022357f9026184151420dd0a41"
   license "MIT"
   head "https://github.com/FortranGoingOnForty/fuss.git", branch: "trunk"
 
